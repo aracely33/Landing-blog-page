@@ -1,0 +1,11 @@
+/* DynamicBackground.css */
+.dynamic-background {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 1s ease;
+}
